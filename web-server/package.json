@@ -1,0 +1,12 @@
+{
+    "name": "web-server",
+    "version": "1.0.0",
+    "description": "Simple web server for rendering HTML files",
+    "main": "web-server.js",
+    "scripts": {
+      "start": "node web-server.js"
+    },
+    "keywords": ["web", "server", "node"],
+    "author": "Akinde Tosin Michael",
+    "license": "ISC"
+  }
